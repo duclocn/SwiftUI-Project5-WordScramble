@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7495BABF23AA7B19006D7C41 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7495BABE23AA7B19006D7C41 /* start.txt */; };
 		74F6D0A423A4DDCF00B70A17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F6D0A323A4DDCF00B70A17 /* AppDelegate.swift */; };
 		74F6D0A623A4DDCF00B70A17 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F6D0A523A4DDCF00B70A17 /* SceneDelegate.swift */; };
 		74F6D0A823A4DDCF00B70A17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F6D0A723A4DDCF00B70A17 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7495BABE23AA7B19006D7C41 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../../../Downloads/HackingWithSwift-master/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
 		74F6D0A023A4DDCF00B70A17 /* Proj5-WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proj5-WordScramble.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F6D0A323A4DDCF00B70A17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74F6D0A523A4DDCF00B70A17 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				74F6D0A923A4DDD000B70A17 /* Assets.xcassets */,
 				74F6D0AE23A4DDD000B70A17 /* LaunchScreen.storyboard */,
 				74F6D0B123A4DDD000B70A17 /* Info.plist */,
+				7495BABE23AA7B19006D7C41 /* start.txt */,
 				74F6D0AB23A4DDD000B70A17 /* Preview Content */,
 			);
 			path = "Proj5-WordScramble";
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74F6D0B023A4DDD000B70A17 /* LaunchScreen.storyboard in Resources */,
+				7495BABF23AA7B19006D7C41 /* start.txt in Resources */,
 				74F6D0AD23A4DDD000B70A17 /* Preview Assets.xcassets in Resources */,
 				74F6D0AA23A4DDD000B70A17 /* Assets.xcassets in Resources */,
 			);
